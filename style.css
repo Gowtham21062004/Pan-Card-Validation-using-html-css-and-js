@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    margin-top: 80px;
+
+}
+label{
+    font-size: large;
+}
+.text{
+    font-size: large;
+    padding: 3px;
+    border: 2px solid black;
+}
+button{
+    padding: 3px;
+    background-color: red;
+    color: white;
+    font-size: large;
+}
